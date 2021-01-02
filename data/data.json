@@ -1,0 +1,32 @@
+[
+    {
+    "id": "0",
+    "productName": "HP Notebook 250 G7",
+    "image": "hpnotebook250g7.webp",
+    "cpu": "Intel® Core™ i3-1005G1 10th Generation",
+    "ram": "4 GB DDR4-2666 SDRAM",
+    "storage": "512 GB SSD",
+    "screen": "39.62 cm (15.6)",
+    "price": "38,013"
+    },
+    {
+        "id": "1",
+        "productName": "HP Pavilion x360 Convertible",
+        "image": "hppavilion.webp",
+        "cpu": "Intel® Core™ i7 10th Generation",
+        "ram": "8 GB DDR4-2666 SDRAM",
+        "storage": "512 GB SSD",
+        "screen": "35.56 CM (14)",
+        "price": "79,999"
+    },
+    {
+        "id": "2",
+        "productName": "HP Chromebook - 14",
+        "image": "hpnotebook250g7.webp",
+        "cpu": "Intel® Core™ i10 10th Generation",
+        "ram": "16 GB DDR4-2666 SDRAM",
+        "storage": "1TB SSD",
+        "screen": "31.25 cm (14.2)",
+        "price": "44,013"
+    }
+]
